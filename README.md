@@ -18,10 +18,10 @@ Unless otherwise stated - please do not cite, share, or discuss papers from the 
 | Start | End  | Topic                           | Presenter                       | Slides |
 |-------|------|---------------------------------|---------------------------------|-------|
 | 3     | 3:15 | Introductions and Overview      | Andrea, Katrina, Peter, and Nic |   [Link]()    |
-| 3:15 | 4:30   | Long Papers         | Peter  |       |
-| 4:30    | 4:40    | Short break |                                 |       |
-| 4:40     | 5:10    | Lightning Talks       | Katrina                         |       |
-| 5:15     | 6:15    | Keynote            | Dr. Jodi Schneider                           |       |
+| 3:15 | 4:15   | Long Papers         | Peter  |       |
+| 4:15    | 4:20    | Short break |                                 |       |
+| 4:20     | 5:20    | Lightning Talks       | Katrina                         |       |
+| 5:20     | 6:15    | Keynote            | Dr. Jodi Schneider                           |       |
 | 6:15     | 6:30   | Closing Remarks and JASIST CFP discussion | Nic                             |       |
 
 
