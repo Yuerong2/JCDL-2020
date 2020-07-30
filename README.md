@@ -1,5 +1,5 @@
 ## JCDL 2020 Workshop Agenda
-August 3, 2020
+August 1, 2020
 
 **Meeting location:** Online via Zoom. Directions on how to connect have been sent to all registered participants. 
 
@@ -13,7 +13,7 @@ During the workshop please feel free to contribute to or edit the shared [notes]
 Unless otherwise stated - please do not cite, share, or discuss papers from the workshop until authors have uploaded a final draft. 
 
 
-### August 3
+### August 1
 
 | Start | End  | Topic                           | Moderator                       | Slides |
 |-------|------|---------------------------------|---------------------------------|-------|
