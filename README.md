@@ -13,7 +13,7 @@ During the workshop please feel free to contribute to or edit the shared [notes]
 Unless otherwise stated - please do not cite, share, or discuss papers from the workshop until authors have uploaded a final draft. 
 
 
-### August 1
+### August 3
 
 | Start | End  | Topic                           | Moderator                       | Slides |
 |-------|------|---------------------------------|---------------------------------|-------|
