@@ -1,5 +1,5 @@
 ## JCDL 2020 Workshop Agenda
-August 1, 2020
+August 2, 2020
 
 **Meeting location:** Online via Zoom. Directions on how to connect have been sent to all registered participants. 
 
@@ -13,7 +13,7 @@ During the workshop please feel free to contribute to or edit the shared [notes]
 Unless otherwise stated - please do not cite, share, or discuss papers from the workshop until authors have uploaded a final draft. 
 
 
-### August 1
+### Schedule
 
 | Start | End  | Topic                           | Moderator                       | Slides |
 |-------|------|---------------------------------|---------------------------------|-------|
@@ -25,10 +25,20 @@ Unless otherwise stated - please do not cite, share, or discuss papers from the 
 | 6:15     | 6:30   | Closing Remarks and JASIST CFP discussion | Nic Weber                            | [Link](https://docs.google.com/presentation/d/124Xxeqc7-d42GR1z44OQYG-0fHCJ4WeOqDYxLVqMWI8/present?token=AC4w5Vg7v6Pa93W8IxI8N-ND5fiqR0PxYQ%3A1596132259293&includes_info_params=1&eisi=CKCC0oLI9eoCFRF4JAodFosAxw#slide=id.p)       |
 
 
-In advance of the workshop, all papers and slides will be made available in a table below. 
+In advance of the workshop, all papers and slides will be made available in the tables below. 
 
+### Long Papers
 
 | Start | End   | Paper Title                                                                                                       | Presenter        | Discussant | Slides |
 |-------|-------|-------------------------------------------------------------------------------------------------------------------|----------------|------------|-------|
 | 3:15| 3:45 | [Where the Rubber meets the Road: Identifying Integration Points for Semantic Publishing](https://github.com/sig-cm/JCDL-2020/blob/master/JCDL_Where_the_rubber_meets_the_road_2020-6-28-FINAL.pdf)| [Joel Chan](http://joelchan.me/) | Nic Weber | [Slides]()|
 | 3:45 | 4:15| [Which Model Does Not Belong: A Dialogue](https://github.com/sig-cm/JCDL-2020/blob/master/jcdl_20_gryk_ludaescher.pdf)| [Michael Gryk](https://facultydirectory.uchc.edu/profile?profileId=4918)| Karen Wickett| [Slides]()|
+
+### Lightning talks
+
+| Presenter                           | Title                       | Slides  |
+|-------------------------------------|-----------------------------|---------|
+| Jacob Jett | TBD | Slides |
+| Yuanxi Fu | Argument-based curation for science | Slides |
+| Jingzhu Wei  + Allen Renear | Deviant Causal Chains: A Problem for the Conceptual Modeling of Influence | Slides |
+| Nic Weber | Unicode Imperialism & The Burmese Zawgyi-1 Font | Slides|
