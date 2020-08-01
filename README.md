@@ -38,7 +38,9 @@ In advance of the workshop, all papers and slides will be made available in the 
 
 | Presenter                           | Title                       | Slides  |
 |-------------------------------------|-----------------------------|---------|
-| Jacob Jett | TBD | Slides |
+| Jacob Jett | Bibliographic Conceptual Model Definitions: Some Consequences of Natural Language Usage in IFLA’s Library Reference Model | Slides |
 | Yuanxi Fu | Argument-based curation for science | Slides |
 | Jingzhu Wei  + Allen Renear | Deviant Causal Chains: A Problem for the Conceptual Modeling of Influence | Slides |
+| Peter Organisciak | TBD| Slides |
+| Karen Wickett | TBD | Slides | 
 | Nic Weber | Unicode Imperialism & The Burmese Zawgyi-1 Font | Slides|
