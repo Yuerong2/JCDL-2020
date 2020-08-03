@@ -41,6 +41,6 @@ In advance of the workshop, all papers and slides will be made available in the 
 | Jacob Jett | Bibliographic Conceptual Model Definitions: Some Consequences of Natural Language Usage in IFLA’s Library Reference Model | Slides |
 | Yuanxi Fu | Argument-based curation for science | Slides |
 | Jingzhu Wei  + Allen Renear | Deviant Causal Chains: A Problem for the Conceptual Modeling of Influence | Slides |
-| Peter Organisciak | Considering Representative Works in Bibliographic Models | Slides |
+| Peter Organisciak | Considering Representative Works in Bibliographic Models | [Slides](https://paper.dropbox.com/doc/Representative-Expressions-in-Bibliographic-Collections--A4~VI9ydCLkrYAprBxH0i9y2AQ-oFWOdKuSqp8eA1XaQkzns) |
 | Karen Wickett | Research Process Modeling for Geologic Mapping Workflows | Slides | 
 | Nic Weber | Unicode Imperialism & The Burmese Zawgyi-1 Font | Slides|
